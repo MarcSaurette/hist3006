@@ -1,6 +1,6 @@
-# How to login to class\*
+# How to join class\*
 
-Our classes are scheduled take place on Mondays and Wednesdays from 11h30 until 13h00. &#x20;
+Our classes are scheduled take place on Mondays and Wednesdays from 10h00 until 11h30. &#x20;
 
 &#x20;It is important that you get [Teams](digital-tools/ms-teams/) and [Perusall](digital-tools/perusall.md) working as soon as you can. Perusall is easy to get working. Teams, if you haven't used it before at Carleton, may not be. So please try to login before class starts in the Fall.&#x20;
 

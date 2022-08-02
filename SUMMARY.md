@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Medieval Religious Life](README.md)
-* [How to login to class\*](how-to-login-to-class.md)
+* [How to join class\*](how-to-login-to-class.md)
 * [Key Dates\*](key-dates.md)
 * [Syllabus](syllabus/README.md)
   * [Your Professor, Marc](syllabus/your-professor-marc.md)

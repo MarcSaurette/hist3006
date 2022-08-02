@@ -2,19 +2,16 @@
 
 Participation is very important for this class since one of our main learning objectives is to improve students’ ability to verbalize their thoughts and assesments, as well as logically discuss/ debate. Nothing can be evidence unless it is placed in a logical argument, and class is meant to let you practice this faculty.
 
-Participation consists of being in class, asking questions, showing you've learned from doing the readings, etc (an abbreviation of _et cetera_, Latin for "and other things"). But, let's get this out in the open – participation is always difficult to assess. I can measure what I see, but I don't know the work that has been done behind the scenes (especially if you are a quiet or shy student). So typically, I have had students assign themselves a mark for participation each class – based on a rubric assigning points for attendence and for degree of participation.
+For the first part of the course, participation will be significant during the [Investiture Controversy gameplay](../../../investiture-controversy-game/). Students will be expected to speak in class to deliver speeches, argue with their opponents, craft persuasive letters, write panegyric verse, plot (via DMs on Teams), or meet up to discuss strategy as a faction (in small groups online). I will be able to assess what happens during our synchronous sessions - but a great deal of your participation might happen behind closed doors - so you will be in charge of assessing your own participation. The three faction leaders will preside over the three councils (which means their level of verbal participation will be slightly greater at baseline).&#x20;
 
-**I will take attendance** and, at the mid-point and at the end of the term, you will write up a [process letter](../process-letters.md) explaining the quality of your participation, part of which will be to assess your contributions to class discussion.
+{% hint style="info" %}
+During the first part of the course (weeks 1-7), we will be taking attendence during the synchronous portions. This information will be used to evaluate your self-assessment of first part of the course.&#x20;
+{% endhint %}
 
-#### Gameplay
+At minimum, students are expected to log in to synchronous having done reading and thought through necessary question and answers, and be willing to talk about them (and by talk I mean out loud and via text chats). Students are expected to engage during the course to identify key themes and issues, evaluate the authors’ positions/reasoning/logic, ask and answer questions from classmates and the professor, etc.
 
-In the first part of the course, participation will be a significant component of the class during the [Investiture Controversy gameplay](../../../investiture-controversy-game/). Students will be expected to speak in class to deliver speeches, argue with their opponents, craft persuasive letters, write panegyric verse, plot (via DMs on Teams), or meet up to discuss strategy as a faction (in small groups in person/ online). I will be able to assess what happens during our in-class sessions - but a great deal of your participation might happen behind closed doors - so you will be in charge of [assessing](../../assessment.md) your own participation.
-
-At minimum, students are expected to come to classes having done the readings and having thought through necessary question and answers, as well as be willing to talk about them (and by talk I mean out loud in class and via Teams). Students are expected to engage during the course to identify key themes and issues, evaluate the authors’ positions/reasoning/logic, ask and answer questions from classmates and the professor, etc.
-
-#### Game Design
-
-In the second part of the class, we will work together on&#x20;
+* Normally, this takes place in person – during class lectures and small group discussions, and through one-on-one interaction with the professor and TA (office hours, conversations before/after class).
+* Clearly – the distance-learning nature of this term will make all that a little different. I suspect that we will experiment with a number of different methods of trying to elicit student engagement during class before landing on those that work the best for us
 
 ## Be Prepared <a href="#be-prepared" id="be-prepared"></a>
 
