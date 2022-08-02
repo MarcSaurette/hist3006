@@ -6,3 +6,5 @@ But it turned into a trial of the one of the foremost intellectuals of the twelf
 
 In the second part of our course, students will divide up into groups -  most will research and describe the various persons who would have attended the council, others will focus more on gameplay, take on an editorial role, or focus on the more academic research aspect of this kind of game.&#x20;
 
+The [game design development plan](https://docs.google.com/document/d/1PNygAkmh9WLnt\_6tRZfrO63-QYhHAVw6CceRuJIZUlc/edit?usp=sharing) is outlined here, which the class will edit together.&#x20;
+

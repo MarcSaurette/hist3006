@@ -2,6 +2,10 @@
 
 There is no easy way to describe the exact writing requirements of this course as it will vary from person to person, depending on the roles they embrace. Generally the writing requirements are as follows:&#x20;
 
+{% hint style="info" %}
+Students need to record links to their written work [on the linked spreadsheet](https://docs.google.com/spreadsheets/d/1Y1JGyI6Sn-0jTWay6I0MKq3y27fIxbg2lFTqzLGOfxQ/edit?usp=sharing).
+{% endhint %}
+
 1. In the first half of the term, students will be expected to write various texts (about 1,000 words in total) in support of game play. What each student will write will depend on the character they have been assigned and their specific goals. Usually these are preparations for speeches (a script) or texts intended to convince/ manipulate fellow game players.&#x20;
 2. At the end of the game, students must write up a written evaluation of the game play. The goal is to highlight the best and worst parts of the game. This is intended to act as inspiration for the game design part of the course.&#x20;
 3. In the second part of the course, students will be expected to have contributed to creating a draft of a historically-informed role-playing game (along the lines of the [Reacting to the Past](https://reacting.barnard.edu/) for those who may have played them in other classes). The focus of the game will be the Council of Sens (1140/41 CE) where Bernard of Clairvaux sought to declare the writings of Peter Abelard heretical and Peter the Venerable defended him. This Council represents the meeting and conflict of several different currents/ factions within the medieval Church and thus offers a way to understand the transformation of the Church in the twelfth century.&#x20;
