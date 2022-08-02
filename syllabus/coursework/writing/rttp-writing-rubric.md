@@ -15,6 +15,6 @@
 | **Sentences**    | <p>Your sentences are clear,</p><p>complete, and of varying lengths.</p>                                                          | <p>You have well-constructed</p><p>sentences and appropriate punctuation.</p>                                                          | <p>The sentence</p><p>structure is somewhat monotonous.</p>                                                                                       | <p>Your sentences are</p><p>sometimes awkward with run-ons or fragments.</p>                                   | Many run-ons, fragments, and awkward phrasing make your essay hard to read. You use the same words over and over. |
 | **Words**        | <p>The words you use are</p><p>vivid, meaningful, and appropriate.</p>                                                            | <p>You generally use correct</p><p>spelling and routine word choices.</p>                                                              | You word choice is often fine, but you have a few places where your word choice was inappropriate.                                                | <p>Your words are sometimes</p><p>confusing or you have</p><p>multiple spelling errors.</p>                    | <p>Numerous errors in word</p><p>choice or spelling make your paper hard to read.</p>                             |
 
-{% file src="../../.gitbook/assets/RTTP-Writing-Rubric.pdf" %}
+{% file src="../../../.gitbook/assets/RTTP-Writing-Rubric.pdf" %}
 Writing Rubric (pdf)
 {% endfile %}
