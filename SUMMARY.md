@@ -2,6 +2,7 @@
 
 * [Medieval Religious Life](README.md)
 * [How to login to class\*](how-to-login-to-class.md)
+* [Key Dates\*](key-dates.md)
 * [Syllabus](syllabus/README.md)
   * [Your Professor, Marc](syllabus/your-professor-marc.md)
   * [Learning Outcomes](syllabus/learning-outcomes/README.md)
@@ -9,7 +10,7 @@
     * [Learning as Mental Exercise](syllabus/learning-outcomes/learning-as-mental-exercise.md)
   * [Communication](syllabus/communication.md)
   * [How much time do I spend...](syllabus/how-much-time-do-i-spend....md)
-  * [Coursework](syllabus/coursework/README.md)
+  * [Coursework\*](syllabus/coursework/README.md)
     * [Participation\*](syllabus/coursework/participation/README.md)
       * [Participation Rubric\*](syllabus/coursework/participation/participation-rubric.md)
       * [RTTP Speaking Rubric](syllabus/coursework/participation/rttp-speaking-rubric.md)

@@ -8,11 +8,13 @@ The first day of class acts as an **orientation** to the class, the work we hope
 
 Student work:&#x20;
 
-* Complete tutorial level by September 11th.&#x20;
+* Complete tutorial level **{add link}** by September 11th.&#x20;
 
 ### 2.1 September 12, 2022
 
+Introduction to medieval religion. What is religion? What are the Middle Ages?
 
+* Read on perusall:&#x20;
 
 ### 2.2 September 14, 2022
 

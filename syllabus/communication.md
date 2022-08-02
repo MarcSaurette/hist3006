@@ -15,7 +15,7 @@ You can get in contact with me:
 
 ## The long answer <a href="#the-long-answer" id="the-long-answer"></a>
 
-Communicating with one another is the key to a successful online class.
+Communicating with one another is the key to a successful class.
 
 Given the distance-learning component of this course, we will all need to be pro-active and intentional with our communications and interactions. This is particularly important not only since the course will be distance-learning, but also because we will have to use multiple different software platforms to interact.
 
@@ -25,10 +25,10 @@ Information about the process to request an extension/accommodation for reasons 
 
 #### **Basic Course Information**  <a href="#basic-course-information" id="basic-course-information"></a>
 
-1. The static website on [gitbook.com](https://app.gitbook.com/@marc-saurette/s/the-making-of-the-middle-ages/) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.
-2. Our "Medieval Religious Life" group on MS Teams will provide a dynamic workspace for class announcements, discussions, as well as where our video conferences will be run. It will be a hub with links to the digital tools and readings we will be using in the course. Note: you must be logged in to your Carleton cmail account to access [Teams](https://marc-saurette.gitbook.io/the-making-of-the-middle-ages/course-info/digital-tools/teams).
+1. The static website on [gitbook](https://marc-saurette.gitbook.io/medieval-religious-life/) (i.e. here) will be the main source of information on basic course information, including a detailed syllabus, schedule of readings, assignment descriptions, and topics under discussion, expectations etc.
+2. Our "Medieval Religious Life" group on MS Teams will provide a dynamic workspace for class announcements, discussions, and potentially office hours. It will be a hub with links to the digital tools and readings we will be using in the course. Note: you must be logged in to your Carleton cmail account to access [Teams](https://marc-saurette.gitbook.io/the-making-of-the-middle-ages/course-info/digital-tools/teams).
 
-·Since we will often announce and reiterate a variety of important logistical information live in class (not all of which will be necessarily announced elsewhere), please attend class consistently, and check with colleagues about whether you missed any logistical information if you were not able to attend a class.
+·Since we will often announce and reiterate a variety of important logistical information _in class_ (not all of which will be necessarily announced elsewhere), please attend class consistently, and check with fellow students about whether you missed any information if you were not able to attend a class. It is _very_ unwise to contact a professor to ask the question, "Did I miss anything important?"
 
 #### **Feedback**
 
@@ -38,10 +38,10 @@ Student will get feedback from the professor on a private individualized google 
 
 We strongly believe that live interaction with your fellow students and the professor is one of the most efficient, effective and valuable parts of the learning experience of any university course.&#x20;
 
-In our experience, live discussions are by far the best and most efficient way to interact.&#x20;
+In our experience, live discussions is by far the best and most efficient way to interact.&#x20;
 
 * This is absolutely true for intellectual encounters: live back-and-forth conversations tend to be much richer, more wide-ranging and spontaneous – which allows for a much deeper and creative exploration of the issues
-* &#x20;It is also usually true for logistical questions as well. First off, given our processes, you will almost always be able to get your question answered faster by connecting with us live rather than via written communications (see below for details).
+* &#x20;It is also usually true for logistical questions as well. First off, you will almost always be able to get your question answered faster by connecting with us live rather than via written communications (see below for details).
 
 {% hint style="danger" %}
 &#x20;Obviously there are exceptions to this rule – particularly in the case of extremely urgent logistical/emergency issues; such as, a situation where it is not feasible/desirable to talk live or sensitive issues you would like to communicate by writing rather than live.
@@ -54,7 +54,7 @@ There will be a variety of official channels through which you can connect with 
 * MS Teams chat/ videoconference functions before and after class
 * Small group breakouts in class
 * Self-scheduled group meetings you can organize via Teams
-* outside of class [Discord](broken-reference)
+* outside of class via Discord (the History Undergraduate Society usually runs a Discord which allows students to discuss class/assignments at arm's length from the professor)
 
 #### **Live Contact with Professor**
 
