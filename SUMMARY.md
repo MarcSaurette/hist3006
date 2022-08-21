@@ -20,7 +20,7 @@
       * [RTTP Writing Rubric](syllabus/coursework/writing/rttp-writing-rubric.md)
     * [Process Letters](syllabus/coursework/process-letters.md)
   * [Deadlines](syllabus/deadlines.md)
-  * [Assessment\*](syllabus/assessment.md)
+  * [Assessment](syllabus/assessment.md)
 * [Weekly Schedule](weekly-schedule/README.md)
   * [Detailed Schedule\*](weekly-schedule/detailed-schedule.md)
 * [Digital Tools](digital-tools/README.md)
