@@ -15,7 +15,7 @@
       * [Participation Rubric](syllabus/coursework/participation/participation-rubric.md)
       * [RTTP Speaking Rubric](syllabus/coursework/participation/rttp-speaking-rubric.md)
     * [Readings](syllabus/coursework/readings.md)
-    * [Writing\*](syllabus/coursework/writing/README.md)
+    * [Writing](syllabus/coursework/writing/README.md)
       * [Profile](syllabus/coursework/writing/profile.md)
       * [RTTP Writing Rubric](syllabus/coursework/writing/rttp-writing-rubric.md)
     * [Process Letters](syllabus/coursework/process-letters.md)

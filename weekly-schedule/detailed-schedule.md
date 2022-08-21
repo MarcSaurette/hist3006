@@ -1,6 +1,8 @@
 # Detailed Schedule\*
 
-
+{% hint style="danger" %}
+In progress!
+{% endhint %}
 
 ### 1.2 September 7, 2022
 

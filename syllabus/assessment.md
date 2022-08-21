@@ -6,7 +6,7 @@ We will be using a simplified form of assessment for this class. All work will b
 | ------------------------- | ------------------- |
 | Readings and annotations  | 20%                 |
 | Participation             | 25%                 |
-| Profile                   |                     |
+| Profile                   | 5%                  |
 | Game Texts/ Speeches      | 20%                 |
 | Game Design Contributions | 20%                 |
 | Process Letters           | 2X 5% (Pass/Fail)   |

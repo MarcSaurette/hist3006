@@ -14,4 +14,3 @@ I have started two planning maps that students can contribute to once you're sig
 
 1. [Outlining basic details of the Council of Sens](https://mm.tt/1726323948?t=aGnjk7G9UL) (setting, cast of characters, timing etc.)
 2. [Outlining game design work flow](https://mm.tt/1717022864?t=LFzqMVspPK) (jobs, teams, areas of responsibility)&#x20;
-3. [Outline of characters/factions](https://mm.tt/1816270760?t=4oRv9qFVfG)

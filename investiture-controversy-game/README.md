@@ -6,4 +6,4 @@ The game endeavors to get students to understand the issues involved by asking t
 
 * The list of characters to play [can be found here](https://docs.google.com/spreadsheets/d/1foqDRbmYshIzMNinPUUJ1HPiyiVAjA8sE6cY1bdo58g/edit?usp=sharing).
 * The player manual can be read on [Perusall](../digital-tools/perusall.md).&#x20;
-* Character sheets will be distributed at the beginning of the third week in September (probably the 20th).&#x20;
+* Character sheets will be distributed at the beginning of the third week in September.
