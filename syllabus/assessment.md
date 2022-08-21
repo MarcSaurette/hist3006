@@ -2,14 +2,14 @@
 
 We will be using a simplified form of assessment for this class. All work will be assessed as either Unsatisfactory, Satisfactory or Excellent. If all your work is assessed as **Satisfactory**, you will receive a B. If all your work is assessed as **Excellent**, you will receive an A+. If you receive a mixture of these two, your grade will fall somewhere in the middle. Work deemed unsatisfactory can be reworked and submitted for reassessment.
 
-| Assignment                | Percentage of Grade |
-| ------------------------- | ------------------- |
-| Readings and annotations  | 20%                 |
-| Participation             | 25%                 |
-| Profile                   | 5%                  |
-| Game Texts/ Speeches      | 20%                 |
-| Game Design Contributions | 20%                 |
-| Process Letters           | 2X 5% (Pass/Fail)   |
+| Assignment                | Percentage of Grade      |
+| ------------------------- | ------------------------ |
+| Readings and annotations  | 20%                      |
+| Participation             | 25%      (self-assessed) |
+| Profile                   | 5%                       |
+| Game Texts/ Speeches      | 20%                      |
+| Game Design Contributions | 20%                      |
+| Process Letters           | 2X 5% (Pass/Fail)        |
 
 In addition to marks assessed for written work and verbal presentations, I also will take into account your overall self-assessment. [Participation](coursework/participation/) will be entirely self-assessed (though your maximum grade is determined partly by attendance).
 

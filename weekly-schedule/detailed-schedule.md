@@ -6,11 +6,7 @@ In progress!
 
 ### 1.2 September 7, 2022
 
-The first day of class acts as an **orientation** to the class, the work we hope to complete and&#x20;
-
-Student work:&#x20;
-
-* Complete tutorial level **{add link}** by September 11th.&#x20;
+The first day of class acts as an **orientation** to the class and the work we hope to complete.
 
 ### 2.1 September 12, 2022
 

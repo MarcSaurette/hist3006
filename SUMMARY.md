@@ -33,4 +33,4 @@
   * [Google Docs](digital-tools/google-docs.md)
 * [Investiture Controversy Game](investiture-controversy-game/README.md)
   * [Timeline](investiture-controversy-game/timeline.md)
-* [Council of Sens (Game Design)\*](council-of-sens.md)
+* [Council of Sens (Game Design)](council-of-sens.md)
