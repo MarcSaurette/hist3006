@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Medieval Religious Life](README.md)
-* [How to join class\*](how-to-login-to-class.md)
-* [Key Dates\*](key-dates.md)
+* [How to join class](how-to-login-to-class.md)
+* [Key Dates](key-dates.md)
 * [Syllabus](syllabus/README.md)
   * [Your Professor, Marc](syllabus/your-professor-marc.md)
   * [Learning Outcomes](syllabus/learning-outcomes/README.md)
@@ -21,7 +21,7 @@
     * [Process Letters](syllabus/coursework/process-letters.md)
   * [Deadlines\*](syllabus/deadlines.md)
   * [Assessment\*](syllabus/assessment.md)
-* [Weekly Schedule\*](weekly-schedule/README.md)
+* [Weekly Schedule](weekly-schedule/README.md)
   * [Detailed Schedule\*](weekly-schedule/detailed-schedule.md)
 * [Digital Tools](digital-tools/README.md)
   * [MS Office 365](digital-tools/ms-office.md)
