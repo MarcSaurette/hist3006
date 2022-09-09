@@ -34,3 +34,7 @@
 * [Investiture Controversy Game](investiture-controversy-game/README.md)
   * [Timeline](investiture-controversy-game/timeline.md)
 * [Council of Sens (Game Design)](council-of-sens.md)
+
+## Prelude to Medieval Religion
+
+* [Medieval Religion](prelude-to-medieval-religion/medieval-religion.md)
