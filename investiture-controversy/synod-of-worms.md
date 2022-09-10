@@ -2,7 +2,7 @@
 
 ### Overview:
 
-The Investiture Controversy opens at the Synod of Worms
+The Investiture Controversy game opens at the Synod of Worms
 
 ### Read/Watch/Listen
 
