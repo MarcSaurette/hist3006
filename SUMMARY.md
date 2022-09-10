@@ -35,6 +35,8 @@
   * [Timeline](investiture-controversy-game/timeline.md)
 * [Council of Sens (Game Design)](council-of-sens.md)
 
-## Prelude to Medieval Religion
+## Prelude
 
-* [Medieval Religion](prelude-to-medieval-religion/medieval-religion.md)
+* [Orientation](prelude/orientation.md)
+* [Medieval Religion](prelude/medieval-religion.md)
+* [Eleventh-Century Context](prelude/eleventh-century-context.md)

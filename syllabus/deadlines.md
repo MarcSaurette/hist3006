@@ -1,4 +1,4 @@
-# Deadlines\*
+# Deadlines
 
 {% hint style="info" %}
 Deadlines for the gameplay part of this course are firm by necessity, in order for play to proceed. Missing scheduled presentations or getting texts in late, will harm game play and the chances of your fellow team mates to win.&#x20;
@@ -10,9 +10,7 @@ In years past, I begin the term outlining the dire consequences that arise from 
 
 If you do have to hand something in late for a valid reason, please let me know (in advance) if there are good reasons for why you can't get something in one time, and we can try to find possible solutions (see below, [Extensions](deadlines.md#extensions-and-accommodations)). Also most things you are expected to submit are drafts - which will be edited again by yourself and others so things don't always need to be "perfect".&#x20;
 
-## Academic Reputation <a href="#academic-reputation" id="academic-reputation"></a>
-
-Instead we are going to establish a system of academic honour or **Reputation** for the first term. Everyone starts with 10 reputation points.You can gain reputation points by helping your classmates and can lose them by being late (loss of 1 point for an assignment being late, more for academic integrity issues). If you fall below a 5 in reputation, you will suffer the consequences....
+During the Investiture Controversy Game, it is key that you present/publish your work as scheduled. If you don't (without a valid extension), your character will suffer in-game consequences which, in turn, will harm your faction.&#x20;
 
 ## Extensions and Accommodations <a href="#extensions-and-accommodations" id="extensions-and-accommodations"></a>
 

@@ -1,4 +1,4 @@
-# Medieval Religion
+# Orientation
 
 ### Goals for this week (September 7, 2022)
 
@@ -20,7 +20,7 @@ The class provides a transition back to school. We'll discuss the syllabus and g
 
 Read the [syllabus](../syllabus/) section of this course guide and also the section on Digital Tools.&#x20;
 
-For Wednesday's class, please read and annotate, Christine Ames' 2012 article surveying the field of studies on medieval religion (reading assignment no. 1) and complete annotations on Perusall.&#x20;
+For Wednesday's class, please read and annotate,[ Christine Ames' 2012 article](https://app.perusall.com/courses/medieval-religious-life-2022/ames-christine-caldwell-medieval-religious-religions-religion-history-compass-10-no-4-2012-334-352?assignmentId=QKPv949phc8SWHqLu\&part=1) surveying the field of studies on medieval religion (reading assignment no. 1) and complete annotations on Perusall.&#x20;
 
 ### Practice
 
