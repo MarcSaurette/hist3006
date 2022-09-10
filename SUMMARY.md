@@ -41,3 +41,7 @@
 * [Orientation](prelude-to-medieval-religion/medieval-religion.md)
 * [Medieval Religion](prelude/medieval-religion.md)
 * [Eleventh-Century Context](prelude/eleventh-century-context.md)
+
+## Investiture Controversy
+
+* [Synod of Worms](investiture-controversy/synod-of-worms.md)
