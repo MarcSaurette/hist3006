@@ -2,7 +2,7 @@
 
 | Week  | Mondays        | Wednesdays | Topic                                                               |
 | ----- | -------------- | ---------- | ------------------------------------------------------------------- |
-| 1     | September      | 7          | [Orientation](../prelude/orientation.md)                            |
+| 1     | September      | 7          | [Orientation](../prelude-to-medieval-religion/medieval-religion.md) |
 |       | September 12   | 14         | [What is medieval religion?](../prelude/medieval-religion.md)       |
 | 3     | September 19   | 21         | The 11th century context/ _Pataria_ mini-game                       |
 | 4     | September 26   | 28         | Synod of Worms                                                      |

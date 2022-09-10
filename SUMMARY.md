@@ -32,11 +32,12 @@
   * [Mindmeister](digital-tools/mindmeister.md)
   * [Google Docs](digital-tools/google-docs.md)
 * [Investiture Controversy Game](investiture-controversy-game/README.md)
+  * [Key Ideas](investiture-controversy-game/key-ideas.md)
   * [Timeline](investiture-controversy-game/timeline.md)
 * [Council of Sens (Game Design)](council-of-sens.md)
 
 ## Prelude
 
-* [Orientation](prelude/orientation.md)
+* [Orientation](prelude-to-medieval-religion/medieval-religion.md)
 * [Medieval Religion](prelude/medieval-religion.md)
 * [Eleventh-Century Context](prelude/eleventh-century-context.md)
