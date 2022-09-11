@@ -10,12 +10,12 @@ Students who play the _Reacting to the Past_ game will:&#x20;
 
 ### Debate Topics
 
-1. Lay investiture
-2. Legitimacy of papal supremacy over bishops&#x20;
-3. Legitimacy of papal freedom from established tradition and papal precedents
-4. Clerical celibacy
-5. Legitimacy of papal supremacy over secular realm
-6. Proprietary church system (and simony)
+1. Lay investiture (tags = #layInvestiture)
+2. Legitimacy of papal supremacy over bishops (#papalSupremacy, #papalPrimacy)
+3. Legitimacy of papal freedom from established tradition and papal precedents (#papalPrecedent)
+4. Clerical celibacy (tag = #clericalCelibacy)
+5. Legitimacy of papal supremacy over secular realm (#papalSupremacy, #TwoPowers)
+6. Proprietary church system (tag = #simony, #propietaryHouses)
 
 ### Key Concepts:
 
