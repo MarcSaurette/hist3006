@@ -14,6 +14,7 @@ This week will conclude our rapid introduction to the prehistory of the Investit
 * learn about the political, social and religious conflict of the mid and late eleventh century
 * play a minigame on the _Pataria_ (Patarine) movement in Milan. This should really be viewed as an in-game tutorial of sorts. It allows students to spend a day getting acquainted with the mechanics and issues of the game and getting comfortable with role playing and public speaking. Each player’s character sheet will contains a short addendum describing their Milanese alter-ego.&#x20;
   * The session is centered around the issues of **papal supremacy over secular rulers** and the **validity of lay investiture**. For this session, players should be sure to carefully read at least _Dictatus papae_ from the primary sources section of the game book. For this session the GM will act as the moderator of the debates, taking on the persona of the truffle-forager from the opening vignette of the game book.
+  * For this session, I (Marc) will act as the moderator of the debates, taking on the persona of the truffle-forager from the opening vignette of the game book. At the top of the session, players will have a few moments to discuss strategy with their factions before launching into debate. In future weeks, faction leaders will be leading the discussion, starting with Henry IV.&#x20;
 
 ### Read/Watch/Listen
 
