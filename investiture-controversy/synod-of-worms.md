@@ -1,6 +1,6 @@
 # Synod of Worms
 
-### Overview:
+### Overview (September 26 & 28)
 
 The Investiture Controversy game opens at the Synod of Worms
 
