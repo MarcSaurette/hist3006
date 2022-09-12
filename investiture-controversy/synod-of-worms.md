@@ -4,7 +4,7 @@
 
 The Investiture Controversy game opens at the Synod of Worms.
 
-
+In late 1075, Gregory wrote a letter to&#x20;
 
 ### Context:
 
