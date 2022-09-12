@@ -7,6 +7,7 @@ This week will conclude our rapid introduction to the prehistory of the Investit
 * learn about the immediate historical background for the _Pataria_ minigame that we will play on Wednesday. Students will read a primary source that conveys the events but also how historical actors spoke, as a necessary starting point for gameplay
 * the professor will distribute character sheets for the game (morning of September 20th)
 * on Monday we will give you a sense of what to expect in the game and Wednesday's session should be understood as a "soft opening" – a chance to practice speaking and getting into character before the main game narrative opens...
+* submit your written profile on September 23rd, 4pm.&#x20;
 
 ### Overview
 
@@ -17,7 +18,7 @@ This week will conclude our rapid introduction to the prehistory of the Investit
 
 Before Wednesday's class, read [Andrea di Sturmo's _Passion of Arialdo_](https://app.perusall.com/courses/medieval-religious-life-2022/the-pataria-andrea-da-strumi-s-passion-of-arialdo-late-eleventh-century?assignmentId=x6y8QppBgLW6kA25H\&part=1) describing the end of the Patarine movement in Milan. This account is a hagiographic work, which means the author is writing (_graphos_) in order to argue that the subject is a saint (_hagios_). Your goal is to pick up how the author is writing as a way to think about how you might speak and argue in the opening gameplay/ debate on Wednesday.
 
-If you really want to get a sense of how to understand the text/ these events, read the optional article by [Piroska Nagy](https://app.perusall.com/courses/medieval-religious-life-2022/piroska-nagy-collective-emotions-history-writing-and-change-the-case-of-the-pataria-milan-eleventh-century?assignmentId=6BKvxQ6Tzr4HZnELp\&part=1) looking at how the text (and speakers in the moment) used emotion to harness support and provoke a reaction (and ultimately spark violence).&#x20;
+If you really want to get a sense of how to understand the text/ these events, read the optional article by [Piroska Nagy](https://app.perusall.com/courses/medieval-religious-life-2022/piroska-nagy-collective-emotions-history-writing-and-change-the-case-of-the-pataria-milan-eleventh-century?assignmentId=6BKvxQ6Tzr4HZnELp\&part=1) looking at how the text (and speakers in the moment) used emotion to harness support and provoke a reaction (and ultimately spark violence). there&#x20;
 
 ### Practice
 

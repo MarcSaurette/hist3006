@@ -26,6 +26,8 @@ You may also wish to read the [optional chapter from the book _The Devil's Histo
 
 ### Do
 
-Make sure [you have signed up](https://docs.google.com/spreadsheets/d/1foqDRbmYshIzMNinPUUJ1HPiyiVAjA8sE6cY1bdo58g/edit?usp=sharing) for a potential character to play (you will likely wish to do some research about them before you choose).
+Begin working on your [Profile](../syllabus/coursework/writing/profile.md), due September 23rd, 4pm.
 
-Start to read about the key themes we will be debating in class this term in advance of our debates (things move quickly once the game starts).&#x20;
+Make sure [you have signed up](https://docs.google.com/spreadsheets/d/1foqDRbmYshIzMNinPUUJ1HPiyiVAjA8sE6cY1bdo58g/edit?usp=sharing) for a potential character to play (you will likely wish to do some research about them before you choose) by the end of day on September 16th.&#x20;
+
+Start to read about the [key themes](../investiture-controversy-game/key-ideas.md) we will be debating in class this term in advance of our debates (things move quickly once the game starts).&#x20;

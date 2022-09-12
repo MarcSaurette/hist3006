@@ -14,7 +14,7 @@ Your  profile should include:
 
 * your name
 * your backstory (is there something about your biography which drives you to study the past? or games?)
-* describe your  appearance –optional– what you look like, how you dress (feel free to be as imaginative/creative as you want. I modelled my description on the works of 19th century medievalist and horror author, M.R. James.&#x20;
+* describe your  appearance –optional– what you look like, how you dress (feel free to be as imaginative/creative as you want.&#x20;
 * what are some ideas that are important to you? What is your idea of the goal of history, or what is religion to you?
 * what are the conditions for your personal victory in class? What does it take to make this class a successful experience for you?
 
