@@ -22,11 +22,11 @@ Timeline of the events surrounding the "Investiture Controversy"
 | 1066 (14 Oct.)    | Norman conquest of England                                                              |
 | 1073‒1075         | Saxon rebellion against Henry IV                                                        |
 | 1073‒1085         | Pope Gregory VII (Hildebrand) reigns                                                    |
-| 1075              | Lenten Synod at Rome (possibly first lay investiture prohibition)                       |
+| 1075              | I Lenten Synod at Rome (possibly first lay investiture prohibition)                     |
 | 1075              | Henry IV appoints Tedald archbishop of Milan as well as bishops of Fermo and Spoleto    |
 | 1075 (Dec.)       | Gregory VII's letter (3.10) to Henry                                                    |
 | 1076 (24 Jan.)    | Synod of Worms: German bishops call for Gregory to step down                            |
-| 1076 (14‒22 Feb.) | Lenten Synod at Rome: Gregory VII excommunicates Henry IV and bishops at Worms          |
+| 1076 (14‒22 Feb.) | II Lenten Synod at Rome: Gregory VII excommunicates Henry IV and bishops at Worms       |
 | 1076 (27 Apr.)    | Bishop William of Utrecht dies a month after pronouncing excommunication of Gregory VII |
 | 1076 (Oct.)       | Henry negotiates with princes at Tribur-Oppenheim                                       |
 | 1077 (25‒28 Jan.) | Encounter at Canossa                                                                    |

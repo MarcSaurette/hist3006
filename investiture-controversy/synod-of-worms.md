@@ -4,6 +4,12 @@
 
 The Investiture Controversy game opens at the Synod of Worms.
 
+
+
+### Context:
+
+1076 (24 Jan.)
+
 ### Debates:&#x20;
 
 **September 26th Debate**: _Papal supremacy over the episcopate_&#x20;

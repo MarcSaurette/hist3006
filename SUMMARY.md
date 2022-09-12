@@ -44,3 +44,6 @@
 ## Investiture Controversy
 
 * [Synod of Worms](investiture-controversy/synod-of-worms.md)
+* [Lenten Synod of Rome](investiture-controversy/lenten-synod-of-rome.md)
+* [Meeting at Trebur](investiture-controversy/meeting-at-trebur.md)
+* [The Road to Canossa](investiture-controversy/the-road-to-canossa.md)
