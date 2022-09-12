@@ -1,11 +1,11 @@
-# Readings\*
+# Readings
 
 Instead of having the bookstore order physical books to campus (which I am not sure if you are going to be nearby), we will instead use digital books which we will read and annotate together via [Perusall](https://marc-saurette.gitbook.io/the-making-of-the-middle-ages/course-info/digital-tools/perusall). Perusall allows for [social annotation](http://www.grandviewcetl.org/tools-for-teaching-social-annotation/) which will be a key part of our learning experience this year.
 
-Mostly, there will not be a set reading calendar for the class. On Perusall, I have created a repository of texts useful to give you insight into the history, biography and historiography of both the Investiture Controversy and the Council of Sens (i.e. for both game play and game development). You will be expected to explore (and add to) the library in order to figure out how to win at the game, and to design a new game...
+On Perusall, I have created a repository of texts useful to give you insight into the history, biography and historiography of both the Investiture Controversy and the Council of Sens (i.e. for both game play and game development). You will be expected to explore (and add to) the library in order to figure out how to win at the game, and to design a new game...
 
 {% hint style="danger" %}
-You will be expected to do readings and write annotations each week, even if there are not assigned readings. You are expected to write at least seven (7) annotations each week on readings posted on Perusall.&#x20;
+You will be expected to do readings and write annotations each week, even if there are not assigned readings. You are expected to write at least five (5) annotations each week on readings posted on Perusall.&#x20;
 
 If you wish to read/ annotate sources not posted on Perusall, provide a copy of the text to the professor so that he can upload it for the class.&#x20;
 {% endhint %}
