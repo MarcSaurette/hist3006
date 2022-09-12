@@ -6,4 +6,4 @@ Context: 1076 (14‒22 Feb.)
 
 
 
-Debate:&#x20;
+**Debates**: Chosen by Gregory VII

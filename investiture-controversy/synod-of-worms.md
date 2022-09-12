@@ -4,7 +4,9 @@
 
 The Investiture Controversy game opens at the Synod of Worms.
 
-In late 1075, Gregory wrote a letter to&#x20;
+In late 1075, Gregory wrote a letter to Henry IV, demanding that he show obedience to him
+
+* See Letter of Gregory to Henry complaining of the king's mistreatment of the church (December 1075), trans.E.Emerton, _The Correspondence of Pope Gregory VII_ (NewYork, 1932), pp.87-89.
 
 ### Context:
 
