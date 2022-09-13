@@ -53,3 +53,8 @@
 ## Council of Sens
 
 * [Background and Overview](council-of-sens-1/background-and-overview.md)
+* [Brainstorming I](council-of-sens-1/brainstorming-i.md)
+* [Brainstorming II](council-of-sens-1/brainstorming-ii.md)
+* [Brainstorming III](council-of-sens-1/brainstorming-iii.md)
+* [Independent Work](council-of-sens-1/independent-work.md)
+* [Endgame](council-of-sens-1/endgame.md)
