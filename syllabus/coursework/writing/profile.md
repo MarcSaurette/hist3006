@@ -10,7 +10,7 @@ The goal of your profile is to imagine yourself as if you were a character - how
 
 ****
 
-**Due**: September 21st, 2022
+**Due**: September 21st, 2022, 4pm.
 
 #### Contents
 
