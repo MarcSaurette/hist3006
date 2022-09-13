@@ -32,6 +32,7 @@
   * [Google Docs](digital-tools/google-docs.md)
 * [Investiture Controversy Game](investiture-controversy-game/README.md)
   * [Key Ideas](investiture-controversy-game/key-ideas.md)
+  * [Maps](investiture-controversy-game/maps.md)
   * [Timeline](investiture-controversy-game/timeline.md)
 * [Council of Sens (Game Design)](council-of-sens.md)
 
@@ -45,5 +46,10 @@
 
 * [Synod of Worms](investiture-controversy/synod-of-worms.md)
 * [Lenten Synod of Rome](investiture-controversy/lenten-synod-of-rome.md)
+* [Intermezzo](investiture-controversy/intermezzo.md)
 * [Meeting at Trebur](investiture-controversy/meeting-at-trebur.md)
 * [The Road to Canossa](investiture-controversy/the-road-to-canossa.md)
+
+## Council of Sens
+
+* [Background and Overview](council-of-sens-1/background-and-overview.md)
