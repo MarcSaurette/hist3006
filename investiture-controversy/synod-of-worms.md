@@ -10,6 +10,7 @@ In the aftermath of continuing conflicts between pope and king about nominating 
 
 Your starting point for preparing for the debate should be reading the following letter which brings simmering tensions to a boil:
 
+* check out the [maps](../investiture-controversy-game/maps.md) to understand the geography of the conflict
 * See [Letter of Gregory to Henry](https://app.perusall.com/courses/medieval-religious-life-2022/brian-tierney-the-crisis-of-church-and-state-1050-1300-with-selected-documents-prentice-hall-inc-1964?assignmentId=FMpEFGGRusKZfRNTR\&part=1) complaining of the king's mistreatment of the church (December 1075), trans. E.Emerton, _The Correspondence of Pope Gregory VII_ (New York, 1932), pp.87-89.
 * Other examples of Gregory's correspondence can be read in [Emerton's work](https://app.perusall.com/courses/medieval-religious-life-2022/records-of-civilization-ephraim-emerton-the-correspondence-of-pope-gregory-vii\_-selected-letters-from-the-registrum-columbia-university-press-1991?assignmentId=yG3qqEKTDs6LPzAuK\&part=1) (1932) which has many letters relevent to understand the characters involved in the Investiture Controversy and to the ideas underpinning the doctinal conflict between pope and king. Another translation of other letters from Gregory (1972) is also posted on Perusall.&#x20;
 
