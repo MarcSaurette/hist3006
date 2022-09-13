@@ -8,15 +8,21 @@ You can copy [the profile template](https://docs.google.com/document/d/1Zw0b4LCq
 The goal of your profile is to imagine yourself as if you were a character - how would a player quantify your skills and abilities, how would they describe your background and preparation for university, and what special knowledge, ideas, and creativity help define you. And also think about how you want to develop - if you want to level up, what skills would you seek to master next?
 {% endhint %}
 
+****
+
+**Due**: September 21st, 2022
+
 #### Contents
 
 Your  profile should include:
 
 * your name
 * your backstory (is there something about your biography which drives you to study the past? or games?)
-* describe your  appearance –optional– what you look like, how you dress (feel free to be as imaginative/creative as you want.&#x20;
 * what are some ideas that are important to you? What is your idea of the goal of history, or what is religion to you?
 * what are the conditions for your personal victory in class? What does it take to make this class a successful experience for you?
+* do you belong to a "faction"? How would you locate yourself if you had to place yourself as the centre of a network ?
+
+The template asks you for more information, which you have the freedom to modify as you see fit. Your major goal is simply to see yourself as a game developer-historian might in two hundred years.&#x20;
 
 ### Alternate projects
 
