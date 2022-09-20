@@ -11,7 +11,7 @@ Students who play the _Reacting to the Past_ game will:&#x20;
 ### Debate Topics
 
 {% hint style="info" %}
-Links are to entries from the [_Dictionary of the Middle Ages_](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/1gorbd6/alma991015644899705153) (online via library)
+Links are to entries from the Oxford [_Dictionary of the Middle Ages_](https://ocul-crl.primo.exlibrisgroup.com/permalink/01OCUL\_CRL/1gorbd6/alma991015644899705153) (online via library)
 {% endhint %}
 
 1. Lay [investiture](https://www-oxfordreference-com.proxy.library.carleton.ca/view/10.1093/acref/9780227679319.001.0001/acref-9780227679319-e-1426?rskey=L0yCUG\&result=1) (tags = #layInvestiture)
