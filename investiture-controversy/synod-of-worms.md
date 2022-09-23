@@ -6,7 +6,7 @@ The _Investiture Controversy_ game opens with a synod (gathering of bishops) and
 
 #### 1076 (24 Jan.)
 
-In the aftermath of continuing conflicts between pope and king about nominating and investing bishops in their positions (including Milan), in late 1075, Gregory wrote a letter to Henry IV, demanding that the king show obedience to him, the papal office, and acknowledge papal rights over bishops. Henry IV had just put down a rebellion, and received the letter when he was newly flush with victory. Knowing that his father had installed a few popes himself and unwilling to tolerate further resistence to his rule, Henry convened his nobles and key members of the Church in German lands on the 24th of January (1076) to respond to the letter and consider its claims to supremacy over bishops (i.e. the episcopate).&#x20;
+In the aftermath of continuing conflicts between pope and king about nominating and investing bishops in their positions (including Milan), in late 1075, Gregory wrote a letter to Henry IV, demanding that the king show obedience to him, the papal office, and acknowledge papal rights over bishops. Henry IV had just put down a rebellion, and received the letter when he was newly flush with victory. Knowing that his father had installed a few popes himself and unwilling to tolerate further resistance to his rule, Henry convened his nobles and key members of the Church in German lands on the 24th of January (1076) to respond to the letter and consider its claims to supremacy over bishops (i.e. the episcopate).&#x20;
 
 Your starting point for preparing for the debate should be reading the following letter which brings simmering tensions to a boil:
 
