@@ -40,5 +40,5 @@ Gregory did not attend, but sent, in our scenario, his papal legate (or represen
 
 
 
-**September 28th Debate:** Topic chosen by Henry IV
+**September 28th Debate:** Papal Freedom from Precedent
 
