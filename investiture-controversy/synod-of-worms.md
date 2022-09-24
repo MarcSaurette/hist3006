@@ -42,3 +42,15 @@ Gregory did not attend, but sent, in our scenario, his papal legate (or represen
 
 **September 28th Debate:** Papal Freedom from Precedent
 
+Perhaps useful for this topic are some dictionary entries:
+
+* [Roman law](https://www-oxfordreference-com.proxy.library.carleton.ca/view/10.1093/acref/9780198662624.001.0001/acref-9780198662624-e-3455?rskey=k0yIgC\&result=3)
+* [Canon Law](https://www-oxfordreference-com.proxy.library.carleton.ca/view/10.1093/acref/9780198662624.001.0001/acref-9780198662624-e-3443?rskey=k0yIgC\&result=12) (i.e. church law)
+* [Customary Law](https://www-oxfordreference-com.proxy.library.carleton.ca/view/10.1093/acref/9780198662624.001.0001/acref-9780198662624-e-1644?rskey=k0yIgC\&result=13) (i.e. tradition, convention)
+
+And a very useful overview to the papacy and in particular to the topic of the relationship between the papacy and law is provided in a great overview of the papacy (starting before and going after our time period):&#x20;
+
+* _A Companion to the Medieval Papacy : Growth of an Ideology and Institution_, edited by Atria Larson, and Keith Sisson, BRILL, 2016. _ProQuest Ebook Central_, [https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/reader.action?docID=4514089\&ppg=147#ppg=149](https://ebookcentral-proquest-com.proxy.library.carleton.ca/lib/oculcarleton-ebooks/reader.action?docID=4514089\&ppg=147#ppg=149)
+
+[Mary Stroll's work](https://app.perusall.com/courses/medieval-religious-life-2022/mary-stroll-popes-and-antipopes-the-politics-of-eleventh-century-church-reform-brill-2012?assignmentId=PpNAiEbes2Ph4bXJk\&part=1) on 11th century papal elections (and anti-popes) which explores how laws around papal elections were drastically reformed in the mid-eleventh century by Henry III and church reformers.&#x20;
+
