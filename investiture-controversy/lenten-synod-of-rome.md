@@ -10,8 +10,6 @@ Gregory VII will choose the topics of debate to respond to the declarations from
 
 ### Gameplay Context:&#x20;
 
-\[to be updated after the Synod of Worms]
-
 _Previous debate_: Should the Pope be free of precedent? The Nay (imperial side) took it with a considerable margin, but not so much that this could not be later opened up for debate again. Did the King find support for his desire to depose Gregory VII? He eked out a close win. Henry IV has declared (claimed that) Pope Gregory is no longer pope.&#x20;
 
 Henry will not attend the Synod at Rome, and thus, like Gregory at Worms, will not be able to vote.&#x20;
