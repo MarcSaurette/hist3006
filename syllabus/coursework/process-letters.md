@@ -4,7 +4,7 @@ Midway through the course and at the end of the term, students will be asked to 
 
 I will post a form on Teams for students to submit, but you may submit a long form written answer (an argument rather than answers to specific questions) if you prefer.
 
-* [Link to Mid-Term Self Assessment ](https://forms.office.com/r/XphbEfYjuu) (Due Friday, October 21, 10am)
+* [Link to Mid-Term Self Assessment ](https://forms.office.com/r/XphbEfYjuu) (Due Wednesday, November 2nd, 10am)
 * [Link to End of Term Self Assessment](https://forms.office.com/r/E6ZKDMcz75) (Due Friday, December 9th, 10am)
 
 ## What do I need to include? <a href="#what-do-i-need-to-include" id="what-do-i-need-to-include"></a>
