@@ -12,7 +12,7 @@
 | 7     | October 17     | 19         | [Meeting at Trebur](investiture-controversy/meeting-at-trebur.md)                                            |
 | 8.    | **October 24** | **26**     | **Reading Week**                                                                                             |
 | 9.    | October 31     | Nov 2      | [Showdown at Canossa & Post-Mortem](investiture-controversy/the-road-to-canossa.md)                          |
-| 8     | November 7     |  9         | [Lectures: History of the Council of Sens](council-of-sens-1/background-and-overview.md)                     |
+| 8     | November 7     |  9         | [Lectures: History of the Council of Sens](council-of-sens-1/sens-1141-background.md)                        |
 | 9     | November 14    | 16         | [How to Gamify History/ Initial brainstorming](council-of-sens-1/brainstorming-i.md)                         |
 | 10    | November 21    | 23         | [Group Game Design](council-of-sens-1/brainstorming-ii.md)                                                   |
 | 11    | November 28    | 30         | [Group Game Design](council-of-sens-1/brainstorming-iii.md)                                                  |

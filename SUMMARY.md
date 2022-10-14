@@ -55,7 +55,7 @@
 
 ## Council of Sens
 
-* [Background and Overview](council-of-sens-1/background-and-overview.md)
+* [Sens 1141 - Background](council-of-sens-1/sens-1141-background.md)
 * [Brainstorming I](council-of-sens-1/brainstorming-i.md)
 * [Brainstorming II](council-of-sens-1/brainstorming-ii.md)
 * [Brainstorming III](council-of-sens-1/brainstorming-iii.md)
