@@ -24,3 +24,7 @@ On November 2nd, we will rehash the game. People can reveal secrets, plots can b
 
 * this will also be an opportunity for us to provide suggestions and critiques of the game (any design changes suggested I can pass on to the creators?)
 * this will allow us to think about what was fun/ what was educational – this will be a key starting point for us to design our own Reacting to the Past style game.&#x20;
+
+### Do&#x20;
+
+You need to complete your self-assessment by November 2nd, 10am. Responses will not be collected after this point, and you will receive an **unsatisfactory** for your participation in the first part of the term.&#x20;
