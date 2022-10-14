@@ -28,3 +28,5 @@ On November 2nd, we will rehash the game. People can reveal secrets, plots can b
 ### Do&#x20;
 
 You need to complete your self-assessment by November 2nd, 10am. Responses will not be collected after this point, and you will receive an **unsatisfactory** for your participation in the first part of the term.&#x20;
+
+* Link to self assessment: [https://forms.office.com/r/XphbEfYjuu](https://forms.office.com/r/XphbEfYjuu)
