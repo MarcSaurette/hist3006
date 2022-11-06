@@ -16,7 +16,9 @@ This week our key goals to achieve will be to turn the history we learned and re
 
 ### Read/Watch/Listen
 
-
+* Begin your initial research phase if you are in a character design or research team. I have some&#x20;
+* If you are working on game mechanics, take a look at other RTTP games or guides to game design posted on Perusall for inspiration.&#x20;
 
 ### Do
 
+Begin writing up your&#x20;
